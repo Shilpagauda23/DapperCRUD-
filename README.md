@@ -34,7 +34,7 @@ CREATE TABLE Product (
 
 - Open the DapperController.cs file in the project and ensure the connection string matches your SQL Server setup.
 
-3) Running the Project
+3)Running the Project
    -After setting up the database and configuring the connection string, follow these steps to run the project:
      - Install the Packages:
        - Microsoft.EntityFrameworkCore
