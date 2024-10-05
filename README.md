@@ -18,7 +18,7 @@ Before running the project, make sure you have the following software installed:
 - SQL Server Management Studio (SSMS)
 
 2)Database Setup
- a) Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
+ - Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
 
  b) Create the database by running the following SQL query in SSMS:
 CREATE DATABASE DapperDB;
