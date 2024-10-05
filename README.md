@@ -49,9 +49,12 @@ CREATE TABLE Product (
          - Use the "Add Product" button to add a new product.
          - Edit or delete products using the corresponding buttons in the product list.
    
-4)Technologies Used
-    -ASP.NET Core - Web framework for building the application.
-    -Dapper - Micro ORM for database access.
-    -SQL Server - Database for storing product data.
+4) Technologies Used
+    -ASP.NET Core 
+      - Web framework for building the application.
+    -Dapper 
+       - Micro ORM for database access.
+    -SQL Server 
+       - Database for storing product data.
    
 
